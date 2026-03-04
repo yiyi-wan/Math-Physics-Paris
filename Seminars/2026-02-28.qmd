@@ -1,0 +1,21 @@
+---
+title: "Feb 28, 2026"
+---
+
+## Speaker
+Du Pei
+
+### Theme
+On Boundary Conditions and Phases of Quantum Field Theories (2)
+
+### Abstract
+We will continue the study of infrared massive phases via the homotopy type of the space of boundary conditions. This time, we will focus on a class of 2d TQFTs with time-reversal symmetry and describe the space of their boundary conditions as a KO-module. An interesting ingredient in the story is a Z_8-valued generalization of the Frobenius-Schur indicator.
+
+### Video  
+- [Video 2026-02-28](https://drive.google.com/file/d/12teLW5TRf6pMYJxedSDZVH_sfoWvAQhk/view?usp=sharing)
+
+### Notes  
+- [Notes 2026-02-28]()
+
+### Resources  
+- [A new approach to (3+1)-dimensional TQFTs via topological modular forms (Sergei Gukov, Vyacheslav Krushkal, Lennart Meier, Du Pei)](https://arxiv.org/abs/2509.12402)
