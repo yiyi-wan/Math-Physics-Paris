@@ -18,3 +18,4 @@ The spectrum TMF (topological modular forms) may be viewed as the "universal" el
 - [Notes 2026-02-21](https://drive.google.com/file/d/1fnv3gSHHjFCdjwv8KiRZE4iUnfl7aN_q/view?usp=sharing)
 
 ### Resources  
+/
