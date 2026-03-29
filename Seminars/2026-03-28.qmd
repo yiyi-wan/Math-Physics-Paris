@@ -15,7 +15,7 @@ We will continue the talk about toric code model, especially the particle-like t
 [Video 2026-03-28](https://drive.google.com/file/d/1dO04VFf7howKFTrIOZinBY98SNDuCbZR/view?usp=sharing)
 
 ### Notes  
-/
+[Notes 2026-03-28](https://drive.google.com/file/d/1ffITP3tsGE46XAv4fosdNLRVqzFNN5iF/view?usp=sharing)
 
 ### Resources  
 - [An invitation to topological orders and category theory (Liang Kong, Zhi-Hao Zhang)](https://arxiv.org/abs/2205.05565)
