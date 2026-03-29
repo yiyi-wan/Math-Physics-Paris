@@ -2,7 +2,7 @@
 title: "Apr 19, 2025"
 ---
 
-## Speaker 1
+## Speaker
 Xianfeng Jiang
 
 ### Theme
@@ -19,21 +19,3 @@ We began by reviewing the theory of de Rham cohomology and then introduced the n
 
 ### Resources  
 /
-
-## Speaker 2
-Yiyi Wan
-
-### Theme
-Characteristic Classes
-
-### Abstract
-In this lecture, we began with a brief review of how characteristic classes can be defined via invariant polynomials. We then introduced several common types of characteristic classes, including the Chern class, Todd class, Pontryagin class, and Euler class, highlighting their key properties. Following that, we presented the most general form of the Atiyah–Singer Index Theorem and explained its broad applications in physics. In particular, by introducing the $\hat{A}-genus$ (A-roof genus), we gained a deeper understanding of how the index theorem manifests in the case of the Dirac operator.
-
-### Video  
-[Video 2025-04-19](https://drive.google.com/file/d/1YU0LZjXAtXrmYUA1a19QzU8neZu4XUIU/view?usp=sharing)
-
-### Notes  
-[Notes 2025-04-19](https://drive.google.com/file/d/1UateDl6DbF85KXUOKPkzeo-YFG_V3Tto/view?usp=sharing)
-
-### Resources  
-- [Geometry, Topology and Physics (Mikio Nakahara)](https://drive.google.com/file/d/1-XJrvkCVIJo_UR3owfaBq7VdKIWBWRCc/view?usp=sharing)

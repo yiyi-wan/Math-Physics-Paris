@@ -1,0 +1,21 @@
+---
+title: "Apr 12, 2025"
+---
+
+## Speaker
+Chen Wei
+
+### Theme
+Homology Theory
+
+### Abstract
+In this lecture, we introduced the definitions and basic properties of homology groups. We presented two approaches to defining homology and proved their equivalence. Along the way, we also discussed the concept of chain complexes.
+
+### Video  
+[Video 2025-04-12](https://drive.google.com/file/d/1Bx9-24vLl_KhmeDAS9Xj0a0VpfoZ6nMn/view?usp=sharing)
+
+### Notes  
+/
+
+### Resources  
+- [Categories and Homological Algebra (Pierre Schapira)](https://drive.google.com/file/d/1b84HkWI1b4ex39Le5Pwn97ILkSQwceWc/view?usp=sharing)
