@@ -6,7 +6,7 @@ title: "Mar 28, 2026"
 Chenxi Zeng
 
 ### Theme
-An Invitation to Topological Orders and Category Theory (2/x)
+An Invitation to Topological Orders and Category Theory (2)
 
 ### Abstract
 We will continue the talk about toric code model, especially the particle-like topological defects in toric code model. By analyzing  particle-like defects and their spacetime instantons, we will show how the structure of a unitary modular tensor category emerges from physical and geometric intuitions of topological excitations. The exposition further illustrates that physical properties—such as stability, fusion, and adiabatic exchange—directly realize the mathematical axioms of (braided) fusion categories, incorporating semisimplicity, monoidal structures, rigidity, and ribbon structures.

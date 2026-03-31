@@ -2,9 +2,9 @@
 title: "Seminars"
 ---
 
-- [Mar 28, 2026: An Invitation to Topological Orders and Category Theory (2/x)](2026-03-28.qmd)
-- [Mar 21, 2026: A Mini-Course on Non-Archimedean Geometry (2/4)](2026-03-21(2).qmd)
-- [Mar 21, 2026: An Invitation to Topological Orders and Category Theory (1/x)](2026-03-21(1).qmd)
+- [Mar 28, 2026: An Invitation to Topological Orders and Category Theory (2)](2026-03-28.qmd)
+- [Mar 21, 2026: A Mini-Course on Non-Archimedean Geometry (2)](2026-03-21(2).qmd)
+- [Mar 21, 2026: An Invitation to Topological Orders and Category Theory (1)](2026-03-21(1).qmd)
 - [Mar 07, 2026: A Mini-course on Non-Archimedean Geometry (1)](2026-03-07.qmd)
 - [Feb 28, 2026: On Boundary Conditions and Phases of Quantum Field Theories (2)](2026-02-28.qmd)
 - [Feb 21, 2026: An Introduction to Topological Modular Forms](2026-02-21.qmd)
@@ -14,7 +14,7 @@ title: "Seminars"
 - [Jan 24, 2026: Some Spectral Theory Problems in Condensed Matter Physics](2026-01-24.qmd)
 - [Jan 17, 2026: Returning to the Beauty of Mathematical Structure and the Depth of Natural Philosophy](2026-01-17.qmd)
 - [Jan 11, 2026: An Introduction to Topological String Theory (2): Topological Sigma Model and Topological String](2026-01-11.qmd)
-- [Jan 10, 2026: On Boundary Conditions and Phases of Quantum Field Theories](2026-01-10.qmd)
+- [Jan 10, 2026: On Boundary Conditions and Phases of Quantum Field Theories (1)](2026-01-10.qmd)
 - [Jan 03, 2026: Renormalized Volume and Weil-Petersson Teichmüller Theory](2026-01-03.qmd)
 - [Dec 27, 2025: An Introduction to Topological String Theory (1)](2025-12-27.qmd)
 - [Dec 20, 2025: Quantum Groups as Global Symmetries (3)](2025-12-20.qmd)
@@ -46,7 +46,7 @@ title: "Seminars"
 - [May 10, 2025: TQFT (11) --- Topological K-theory](2025-05-10.qmd)  
 - [May 06, 2025: TQFT (10) --- Wess-Zumino Condition](2025-05-06.qmd)  
 - [Apr 19, 2025: TQFT (9) --- Characteristic Classes](2025-04-19(2).qmd)
-- [Apr 19, 2025: TQFT (8) --- Chern-Weil Theorem & Characteristic Classes](2025-04-19(1).qmd) 
+- [Apr 19, 2025: TQFT (8) --- Chern-Weil Theorem](2025-04-19(1).qmd) 
 - [Apr 12, 2025: TQFT (7) --- Replica Method](2025-04-12(2).qmd)
 - [Apr 12, 2025: TQFT (6) --- Homology Theory](2025-04-12(1).qmd)
 - [Apr 05, 2025: TQFT (5) --- 't Hooft Anomaly](2025-04-05.qmd)   

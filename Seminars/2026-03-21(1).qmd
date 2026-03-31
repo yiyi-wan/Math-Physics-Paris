@@ -6,7 +6,7 @@ title: "Mar 21, 2026"
 Yiyi Wan
 
 ### Theme
-An Invitation to Topological Orders and Category Theory (1/x)
+An Invitation to Topological Orders and Category Theory (1)
 
 ### Abstract
 In this talk we explain how categorical structures arise directly from physical lattice models and anyon excitations. Starting from basic notions of topological order and string-net models, we introduce the physical picture of anyons, their fusion rules, and the algebraic structures governing their interactions. We then show how these physical processes naturally lead to the axioms of fusion categories.
