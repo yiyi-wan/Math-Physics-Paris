@@ -2,7 +2,7 @@
 title: "Math-Physics Paris"
 ---
 
-The Math-Physics Paris discussion group focuses on symmetries in modern physics, exploring their fundamental roles and recent developments across HEP, CMT and mathematical physics. It is inspried by and aligned with the theme of the [2024 IHES Summer School](https://indico.math.cnrs.fr/event/11080/).
+The Math-Physics Paris discussion group focuses on symmetries in modern physics, exploring their fundamental roles and recent developments across high energy physics, condensed matter physics, and mathematical physics.
 
 ## Organization
 
@@ -21,7 +21,7 @@ The purpose is to provide a shared reading space for students working on project
 
 #### Time
 
-14:00 Paris/08:00 New York/21:00 Beijing on Saturdays
+14:00 Paris/08:00 New York/20:00 Beijing on Saturdays
 
 (The time may be adjusted to accommodate speakers' availability.)
 
