@@ -2,6 +2,7 @@
 title: "Projects"
 ---
 
+- [Apr 18, 2026: LSM and CPT](2026-04-18.qmd)
 - [Nov 01, 2025: Free Discussion](2025-11-01.qmd)
 - [Oct 25, 2025: Free Discussion](2025-10-25.qmd)
 - [Oct 04, 2025: Free Discussion](2025-10-04.qmd)

@@ -1,0 +1,19 @@
+---
+title: "Apr 18, 2026"
+---
+
+## Speaker
+Juven Wang
+
+### Theme
+LSM and CPT
+
+### Video
+[Video 2026-04-18](https://drive.google.com/file/d/1w9lgyJFhV-faZ_P9jqRLqklwEhFJQCV1/view?usp=sharing)
+
+### Notes
+/
+
+### Resources
+- [LSM and CPT (Nathan Seiberg, Shu-Heng Shao, Wucheng Zhang)](https://arxiv.org/abs/2508.17115)
+- [Anomalies and Nonsupersymmetric D-Branes (Edward Witten)](https://arxiv.org/abs/2305.01012)

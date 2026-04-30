@@ -4,7 +4,7 @@ title: "Math-Physics Paris"
 
 The Math-Physics Paris discussion group focuses on symmetries in modern physics, exploring their fundamental roles and recent developments across high energy physics, condensed matter physics, and mathematical physics.
 
-## Organization
+## Organization 
 
 We have two types of meetings:
 

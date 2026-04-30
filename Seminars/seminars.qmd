@@ -2,6 +2,9 @@
 title: "Seminars"
 ---
 
+- [Apr 25, 2026: A Mini-Course on Non-Archimedean Geometry (4)](2026-04-25(2).qmd)
+- [Apr 25, 2026: An Invitation to Topological Orders and Category Theory (4)](2026-04-25(1).qmd)
+- [Apr 11, 2026: An Invitation to Topological Orders and Category Theory (3)](2026-04-11.qmd)
 - [Apr 04, 2026: A Mini-Course on Non-Archimedean Geometry (3)](2026-04-04.qmd)
 - [Mar 28, 2026: An Invitation to Topological Orders and Category Theory (2)](2026-03-28.qmd)
 - [Mar 21, 2026: A Mini-Course on Non-Archimedean Geometry (2)](2026-03-21(2).qmd)

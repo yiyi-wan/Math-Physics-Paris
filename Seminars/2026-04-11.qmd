@@ -1,0 +1,21 @@
+---
+title: "Apr 11, 2026"
+---
+
+## Speaker
+Chen Wei
+
+### Theme
+An Invitation to Topological Orders and Category Theory (3)
+
+### Abstract
+We explore how anyonic excitations (or particle‑like topological defects) are organized into unitary modular tensor categories, whose braiding data encode fractional and non‑abelian statistics. The nondegeneracy condition, captured by the Müger center, is shown to be equivalent to anomaly freedom, guaranteeing a consistent definition on closed manifolds. This framework provides a complete and rigorous classification of 2d topological orders.
+
+### Video  
+[Video 2026-04-11](https://drive.google.com/file/d/1he55cnLGEOLreyYFAHJMZ-wQHfBbY1Tp/view?usp=sharing)
+
+### Notes  
+[Notes 2026-04-11](https://drive.google.com/file/d/1p0VgZ8TXIeriEv-6Tu3cmjXU0SrsgdDn/view?usp=sharing)
+
+### Resources  
+- [An invitation to topological orders and category theory (Liang Kong, Zhi-Hao Zhang)](https://arxiv.org/abs/2205.05565)

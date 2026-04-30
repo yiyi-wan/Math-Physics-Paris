@@ -1,0 +1,21 @@
+---
+title: "Apr 25, 2026"
+---
+
+## Speaker
+Yiming Teng
+
+### Theme
+An Invitation to Topological Orders and Category Theory (4)
+
+### Abstract
+This talk gives an introductory overview of gapped boundaries and one-dimensional domain walls in two-dimensional topological orders, using the toric code as the main guiding example. We begin by comparing smooth and rough boundaries of the toric code and explain how bulk anyons are mapped to boundary excitations through condensation. This motivates the categorical description of a gapped boundary by a unitary fusion category and the bulk-to-boundary map by a central functor. We then discuss the Drinfeld center as the mathematical structure that reconstructs an anomaly-free bulk topological order from its gapped boundary theory. Finally, we extend the discussion from boundaries to gapped domain walls between two topological orders.
+
+### Video  
+[Video 2026-04-25](https://drive.google.com/file/d/1sA_mXoXwHoABcu-MxW2Epmeki6LSopDh/view?usp=sharing)
+
+### Notes  
+[Notes 2026-04-25](https://drive.google.com/file/d/1QOKQ7u2n9YQIuNo5FYjEnTomQpDum5C7/view?usp=sharing)
+
+### Resources  
+- [An invitation to topological orders and category theory (Liang Kong, Zhi-Hao Zhang)](https://arxiv.org/abs/2205.05565)

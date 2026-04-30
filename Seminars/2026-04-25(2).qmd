@@ -1,0 +1,21 @@
+---
+title: "Apr 25, 2026"
+---
+
+## Speaker
+Shaowu Zhang
+
+### Theme
+A Mini-Course on Non-Archimedean Geometry (4)
+
+### Abstract
+This mini-course is a gentle introduction to non-Archimedean geometry. We will introduce fundamental concepts such as classical rigid analytic spaces, the analytification functor, and Berkovich spaces, before applying this machinery to study p-adic differential equations. Time permitting, we will also explain recent applications of non-Archimedean geometry to enumerative and birational geometry.
+
+### Video  
+There are no recordings of this mini-course.
+
+### Notes  
+[Notes 2026-04-25]()
+
+### Resources  
+/
