@@ -9,7 +9,7 @@ Yiyi Wan
 An Invitation to Topological Orders and Category Theory (5)
 
 ### Abstract
-We study gapped 0d domain walls between 1d topological orders. We then introduce the notion of condensation completion and the topological skeleton of a 2d topological order. From the perspective of anyon condensation, we explain how all gapped boundaries, domain walls, and defect sectors can be organized into a unified categorical framework.
+Following our previous study of 1d domain walls, we continue by studying gapped 0d domain walls between 1d topological orders. We then introduce the notion of condensation completion. Finally, we explain how all gapped domain walls can be organized within fusion 2-categories.
 
 ### Video  
 [Video 2026-05-09](https://drive.google.com/file/d/1E8iCB5SLMF47ITNYQXJDRR-f9_9XtkOp/view?usp=sharing)
