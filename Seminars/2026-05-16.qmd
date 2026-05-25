@@ -1,0 +1,21 @@
+---
+title: "May 16, 2026"
+---
+
+## Speaker
+Honghao Jing
+
+### Theme
+Mirror Symmetry Through Examples: SYZ, HMS, and Their Interface
+
+### Abstract
+This talk gives an introduction to the mathematical theory of mirror symmetry, organized around the relationship between the Strominger–Yau–Zaslow (SYZ) conjecture and Homological Mirror Symmetry (HMS). We begin with some minimal prerequisites from symplectic geometry and explain the geometric idea that mirror pairs arise by dualizing Lagrangian torus fibrations. We then give a gentle introduction to Fukaya categories and explain Homological Mirror Symmetry as the categorical consequence of this geometric picture. The exposition will be example-driven.
+
+### Video  
+Being processed.
+
+### Notes  
+[Notes 2026-05-16](https://drive.google.com/file/d/1SZD_SVtWKXWj_EJiBnmH3xysGldrjQXJ/view?usp=sharing)
+
+### Resources  
+/

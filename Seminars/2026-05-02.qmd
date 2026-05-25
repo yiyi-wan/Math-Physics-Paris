@@ -1,0 +1,21 @@
+---
+title: "May 02, 2026"
+---
+
+## Speaker
+Weixiao Lu
+
+### Theme
+TQFT and the Langlands Program: A Unified Perspective
+
+### Abstract
+This talk introduces the aspects of topological quantum field theory (TQFT) that arise in the Langlands program. We will begin with an overview of several facets of the Langlands conjectures, including the arithmetic and geometric Langlands programs, as well as their global and local forms. We will then explain how TQFT provides a natural framework for organizing these perspectives and offering a uniform conceptual picture. If time permits, we will also discuss how the relative Langlands conjecture can be understood as a boundary theory in this framework.
+
+### Video  
+[Video 2026-05-02](https://drive.google.com/file/d/1DBPTuugVN4E9yNKSqAmrJDscllfL57aC/view?usp=sharing)
+
+### Notes  
+[Notes 2026-05-02](https://drive.google.com/file/d/1YepvF27ZwwKy8Nmd7XvhluHIddqjUO2D/view?usp=sharing)
+
+### Resources  
+/

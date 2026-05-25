@@ -1,0 +1,21 @@
+---
+title: "May 09, 2026"
+---
+
+## Speaker
+Yiyi Wan
+
+### Theme
+An Invitation to Topological Orders and Category Theory (5)
+
+### Abstract
+We study gapped 0d domain walls between 1d topological orders. We then introduce the notion of condensation completion and the topological skeleton of a 2d topological order. From the perspective of anyon condensation, we explain how all gapped boundaries, domain walls, and defect sectors can be organized into a unified categorical framework.
+
+### Video  
+[Video 2026-05-09](https://drive.google.com/file/d/1E8iCB5SLMF47ITNYQXJDRR-f9_9XtkOp/view?usp=sharing)
+
+### Notes
+/
+
+### Resources  
+- [An invitation to topological orders and category theory (Liang Kong, Zhi-Hao Zhang)](https://arxiv.org/abs/2205.05565)
