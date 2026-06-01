@@ -2,6 +2,7 @@
 title: "Seminars"
 ---
 
+- [May 30, 2026: Introduction to higher algebra and higher category theory](2026-05-30.qmd)
 - [May 23, 2026: An Introduction to Homological Mirror Symmetry](2026-05-23.qmd)
 - [May 16, 2026: Mirror Symmetry Through Examples: SYZ, HMS, and Their Interface](2026-05-16.qmd)
 - [May 09, 2026: An Invitation to Topological Orders and Category Theory (5)](2026-05-09.qmd)

@@ -1,0 +1,21 @@
+---
+title: "May 09, 2026"
+---
+
+## Speaker
+Chen Wei
+
+### Theme
+Introduction to higher algebra and higher category theory
+
+### Abstract
+This lecture introduces higher algebra and higher category theory, from monoidal categories to centralizers. We begin with monoidal and braided monoidal categories, then define algebraic structures in the two-category of ordinary categories. Using delooping, we construct higher monoidal categories and discuss condensations and separable algebras. Physical examples include anyons in topological orders, where braiding arises from particle exchange. We conclude with the notion of centralizers, unifying Drinfeld and Müger centers.
+
+### Video  
+Being processed.
+
+### Notes
+- [Notes 2026-05-30](https://drive.google.com/file/d/1sHjhSpV-QDWjorKg4Lii63PLRIBIgmFR/view?usp=sharing)
+
+### Resources  
+- [Higher condensation theory (Liang Kong, Zhi-Hao Zhang, Jiaheng Zhao, Hao Zheng)](https://arxiv.org/abs/2403.07813)

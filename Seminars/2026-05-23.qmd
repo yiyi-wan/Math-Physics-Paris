@@ -1,5 +1,5 @@
 ---
-title: "May 16, 2026"
+title: "May 23, 2026"
 ---
 
 ## Speaker
@@ -12,7 +12,7 @@ An Introduction to Homological Mirror Symmetry
 This talk will begin with an introduction to Fukaya categories and the homological mirror symmetry conjecture. We will then sketch the proof of HMS for elliptic curves, using it as a concrete example to illustrate the concepts introduced earlier. In the second part of the talk, we will discuss possible approaches to two broader questions: how SYZ implies HMS, and how one studies functoriality in mirror symmetry.
 
 ### Video  
-Being processed.
+[Video 2026-05-23](https://drive.google.com/file/d/1Iha5WEfuQaBq5hOJ2wjbZGBuGK6grPs6/view?usp=sharing)
 
 ### Notes  
 [Notes 2026-05-23](https://drive.google.com/file/d/1w0PKwkBtAGVunlq0p6j2LeMU-IgIK5r9/view?usp=sharing)
