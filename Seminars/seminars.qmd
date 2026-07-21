@@ -2,6 +2,9 @@
 title: "Seminars"
 ---
 
+- [Jun 27, 2026: Gapless edges of 2d topological orders and enriched monoidal categories](2026-06-27.qmd)
+- [Jun 20, 2026: An Introduction to Rational Conformal Field Theory](2026-06-20.qmd)
+- [Jun 06, 2026: Boundary-bulk relation in topological orders](2026-06-06.qmd)
 - [May 30, 2026: Introduction to higher algebra and higher category theory](2026-05-30.qmd)
 - [May 23, 2026: An Introduction to Homological Mirror Symmetry](2026-05-23.qmd)
 - [May 16, 2026: Mirror Symmetry Through Examples: SYZ, HMS, and Their Interface](2026-05-16.qmd)

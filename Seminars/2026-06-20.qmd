@@ -1,0 +1,22 @@
+---
+title: "Jun 20, 2026"
+---
+
+## Speaker
+Yiyi Wan
+
+### Theme
+An Introduction to Rational Conformal Field Theory
+
+### Abstract
+In this talk, we will give an introductory overview of Rational Conformal Field Theory (RCFT) and discuss the vertex operator algebra (VOA) approach. The goal is to prepare for Chenxi’s presentation next week on the paper by Kong and Zheng (arXiv:1705.01087).
+
+### Video  
+[Video 2026-06-20](https://drive.google.com/file/d/1mHyspDJQbpkMkgmUE0VKzisYzh4Bg-4Y/view?usp=sharing)
+
+### Notes
+/
+
+### Resources  
+- [Boundary-bulk relation in topological orders (Liang Kong, Xiao-Gang Wen, Hao Zheng)](https://arxiv.org/abs/1702.00673)
+- [Gapless edges of 2d topological orders and enriched monoidal categories (Liang Kong, Hao Zheng)](https://arxiv.org/abs/1705.01087)

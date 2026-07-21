@@ -1,0 +1,21 @@
+---
+title: "Jun 06, 2026"
+---
+
+## Speaker
+Chenxi Zeng
+
+### Theme
+Gapless edges of 2d topological orders and enriched monoidal categories
+
+### Abstract
+We give a precise mathematical description of a chiral gapless edge of a 2d topological order (without symmetry). We show that the observables on the 1+1D world sheet of such an edge consist of a family of topological edge excitations, boundary CFT’s and walls between boundary CFT’s. These observables can be described by a chiral algebra and an enriched monoidal category. This mathematical description automatically includes that of gapped edges as special cases. Therefore, it gives a unified framework to study both gapped and gapless edges. Moreover, the boundary-bulk duality also holds for gapless edges. More precisely, the unitary modular tensor category that describes the 2d bulk phase is exactly the Drinfeld center of the enriched monoidal category that describes the gapless/gapped edge. This seminar closely follow 1705.01087 and https://zhuanlan.zhihu.com/p/1984816570069975946.
+
+### Video  
+[Video 2026-06-27](https://drive.google.com/file/d/1wAVjcjAFO5TFwQwCuB52UbDCHEJLOaBV/view?usp=sharing)
+
+### Notes
+/
+
+### Resources  
+- [Gapless edges of 2d topological orders and enriched monoidal categories (Liang Kong, Hao Zheng)](https://arxiv.org/abs/1705.01087)

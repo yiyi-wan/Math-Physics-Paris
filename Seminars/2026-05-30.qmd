@@ -12,7 +12,7 @@ Introduction to higher algebra and higher category theory
 This lecture introduces higher algebra and higher category theory, from monoidal categories to centralizers. We begin with monoidal and braided monoidal categories, then define algebraic structures in the two-category of ordinary categories. Using delooping, we construct higher monoidal categories and discuss condensations and separable algebras. Physical examples include anyons in topological orders, where braiding arises from particle exchange. We conclude with the notion of centralizers, unifying Drinfeld and Müger centers.
 
 ### Video  
-Being processed.
+[Video 2026-05-30](https://drive.google.com/file/d/11asbFEkrBj-YU7uMaw7WQJOb4aLoQKtz/view?usp=sharing)
 
 ### Notes
 - [Notes 2026-05-30](https://drive.google.com/file/d/1sHjhSpV-QDWjorKg4Lii63PLRIBIgmFR/view?usp=sharing)
