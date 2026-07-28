@@ -15,7 +15,7 @@ This lecture introduces higher algebra and higher category theory, from monoidal
 [Video 2026-05-30](https://drive.google.com/file/d/11asbFEkrBj-YU7uMaw7WQJOb4aLoQKtz/view?usp=sharing)
 
 ### Notes
-- [Notes 2026-05-30](https://drive.google.com/file/d/1sHjhSpV-QDWjorKg4Lii63PLRIBIgmFR/view?usp=sharing)
+[Notes 2026-05-30](https://drive.google.com/file/d/1sHjhSpV-QDWjorKg4Lii63PLRIBIgmFR/view?usp=sharing)
 
 ### Resources  
 - [Higher condensation theory (Liang Kong, Zhi-Hao Zhang, Jiaheng Zhao, Hao Zheng)](https://arxiv.org/abs/2403.07813)
