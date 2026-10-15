@@ -1,0 +1,22 @@
+---
+title: "Oct 15, 2026"
+---
+
+## Speaker
+Yiyi Wan
+
+### Theme
+Algebraic structure of 2d rational conformal field theory(2/x)
+
+### Abstract
+This talk introduces VOA modules, their grading structures, and the induced Virasoro action, followed by a discussion of irreducibility and rationality. Examples from Virasoro minimal models will illustrate these concepts. We will then construct contragredient modules and explain how their vertex operators arise geometrically from exchanging zero and infinity on the Riemann sphere, together with the corresponding changes of local coordinates.
+
+### Video  
+[Video 2026-10-08](https://drive.google.com/file/d/1u-SgDpwotqgNnt8KB89nTXM2oGCSpE8Z/view?usp=sharing)
+
+### Notes
+[Notes 2026-10-08](https://drive.google.com/file/d/1nbXrlf-Pquhu3fnMC3YtmvoYElqjTbeC/view?usp=sharing)
+
+### Resources  
+- [Lectures on Vertex Operator Algebras and Conformal Blocks (Bin Gui)](https://arxiv.org/abs/2305.03822)
+- [Conformal field theory and a new geometry (Liang Kong)](https://arxiv.org/abs/1107.3649)

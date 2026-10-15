@@ -1,0 +1,22 @@
+---
+title: "Oct 08, 2026"
+---
+
+## Speaker
+Chenxi Zeng
+
+### Theme
+Algebraic structure of 2d rational conformal field theory(1/x)
+
+### Abstract
+We will introduce the definition of a VOA, with particular emphasis on the Jacobi identity and the geometric interpretation of the operator product expansion (OPE).
+
+### Video  
+[Video 2026-10-08](https://drive.google.com/file/d/1nG1-CzpkdN2kV9UowLxXmjtwAFoGEOOk/view?usp=sharing)
+
+### Notes
+[Notes 2026-10-08](https://drive.google.com/file/d/1nhBj0jIVyqSEFD2dLHbwiqX9Rub66uWO/view?usp=sharing)
+
+### Resources  
+- [Lectures on Vertex Operator Algebras and Conformal Blocks (Bin Gui)](https://arxiv.org/abs/2305.03822)
+- [Conformal field theory and a new geometry (Liang Kong)](https://arxiv.org/abs/1107.3649)

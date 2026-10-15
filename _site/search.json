@@ -252,95 +252,116 @@
     "text": "Xianfeng Jiang\n\n\nIntroduction to Clifford algebra\n\n\n\nThis talk is devoted to the basic algebraic ingredients of spin geometry: Clifford algebras and spin groups. Clifford algebras are naturally associated to vector spaces endowed with symmetric bilinear forms. The Clifford algebra of the n-dimensional Euclidean space contains the spin group \\(Spin(n)\\), which is the 2-fold cover of the special orthogonal group \\(SO(n)\\) for \\(n \\ge 3\\). We study the concept of Clifford algebras and highlight some of their important properties.\n\n\n\nVideo 2025-09-01\n\n\n\nNotes 2025-09-01\n\n\n\n\nSpin Geometry (Christian Bär)"
   },
   {
-    "objectID": "Seminars/2025-07-20.html",
-    "href": "Seminars/2025-07-20.html",
-    "title": "Jul 20, 2025",
+    "objectID": "Seminars/2025-04-12(1).html",
+    "href": "Seminars/2025-04-12(1).html",
+    "title": "Apr 12, 2025",
     "section": "",
-    "text": "Yiyi Wan\n\n\nQuantizable Condition and Maslov Technique\n\n\n\nIn this lecture, we built upon the symplectic geometry discussed last time to examine the quantization condition for projectable Lagrangian submanifolds. Then, for general Lagrangian submanifolds, we introduced the prequantum \\(\\mathbb{T}_{\\hbar}\\) bundle and established the geometric condition under which such submanifolds are prequantizable. To determine whether a prequantizable Lagrangian submanifold is further quantizable, we employed the Maslov technique. As an example, we provided the exact Maslov quantization condition in the case where the Lagrangian submanifold is a circle. More general cases will be discussed in future sessions.\n\n\n\nVideo 2025-07-20\n\n\n\nNotes 2025-07-20\n\n\n\n\nLectures on the Geometry of Quantization (Sean Bates, Alan Weinstein)"
+    "text": "Chen Wei\n\n\nHomology Theory\n\n\n\nIn this lecture, we introduced the definitions and basic properties of homology groups. We presented two approaches to defining homology and proved their equivalence. Along the way, we also discussed the concept of chain complexes.\n\n\n\nVideo 2025-04-12\n\n\n\n/\n\n\n\n\nCategories and Homological Algebra (Pierre Schapira)"
   },
   {
-    "objectID": "Seminars/2025-07-20.html#speaker",
-    "href": "Seminars/2025-07-20.html#speaker",
-    "title": "Jul 20, 2025",
+    "objectID": "Seminars/2025-04-12(1).html#speaker",
+    "href": "Seminars/2025-04-12(1).html#speaker",
+    "title": "Apr 12, 2025",
     "section": "",
-    "text": "Yiyi Wan\n\n\nQuantizable Condition and Maslov Technique\n\n\n\nIn this lecture, we built upon the symplectic geometry discussed last time to examine the quantization condition for projectable Lagrangian submanifolds. Then, for general Lagrangian submanifolds, we introduced the prequantum \\(\\mathbb{T}_{\\hbar}\\) bundle and established the geometric condition under which such submanifolds are prequantizable. To determine whether a prequantizable Lagrangian submanifold is further quantizable, we employed the Maslov technique. As an example, we provided the exact Maslov quantization condition in the case where the Lagrangian submanifold is a circle. More general cases will be discussed in future sessions.\n\n\n\nVideo 2025-07-20\n\n\n\nNotes 2025-07-20\n\n\n\n\nLectures on the Geometry of Quantization (Sean Bates, Alan Weinstein)"
+    "text": "Chen Wei\n\n\nHomology Theory\n\n\n\nIn this lecture, we introduced the definitions and basic properties of homology groups. We presented two approaches to defining homology and proved their equivalence. Along the way, we also discussed the concept of chain complexes.\n\n\n\nVideo 2025-04-12\n\n\n\n/\n\n\n\n\nCategories and Homological Algebra (Pierre Schapira)"
   },
   {
-    "objectID": "Seminars/seminars.html",
-    "href": "Seminars/seminars.html",
-    "title": "Seminars",
+    "objectID": "Seminars/2025-10-11.html",
+    "href": "Seminars/2025-10-11.html",
+    "title": "Oct 11, 2025",
     "section": "",
-    "text": "Jun 27, 2026: Gapless edges of 2d topological orders and enriched monoidal categories\nJun 20, 2026: An Introduction to Rational Conformal Field Theory\nJun 06, 2026: Boundary-bulk relation in topological orders\nMay 30, 2026: Introduction to higher algebra and higher category theory\nMay 23, 2026: An Introduction to Homological Mirror Symmetry\nMay 16, 2026: Mirror Symmetry Through Examples: SYZ, HMS, and Their Interface\nMay 09, 2026: An Invitation to Topological Orders and Category Theory (5)\nMay 02, 2026: TQFT and the Langlands Program: A Unified Perspective\nApr 25, 2026: A Mini-Course on Non-Archimedean Geometry (4)\nApr 25, 2026: An Invitation to Topological Orders and Category Theory (4)\nApr 11, 2026: An Invitation to Topological Orders and Category Theory (3)\nApr 04, 2026: A Mini-Course on Non-Archimedean Geometry (3)\nMar 28, 2026: An Invitation to Topological Orders and Category Theory (2)\nMar 21, 2026: A Mini-Course on Non-Archimedean Geometry (2)\nMar 21, 2026: An Invitation to Topological Orders and Category Theory (1)\nMar 07, 2026: A Mini-course on Non-Archimedean Geometry (1)\nFeb 28, 2026: On Boundary Conditions and Phases of Quantum Field Theories (2)\nFeb 21, 2026: An Introduction to Topological Modular Forms\nFeb 14, 2026: Non-Invertible Kennedy-Tasaki Transformation and Applications to Gapless-SPT\nFeb 07, 2026: Anomalous Symmetries in Mixed-state Phases: a Perspective from Operator Algebras\nJan 31, 2026: Symmetric Gapped States and Symmetry-Enforced Gaplessness in 3-dimension\nJan 24, 2026: Some Spectral Theory Problems in Condensed Matter Physics\nJan 17, 2026: Returning to the Beauty of Mathematical Structure and the Depth of Natural Philosophy\nJan 11, 2026: An Introduction to Topological String Theory (2): Topological Sigma Model and Topological String\nJan 10, 2026: On Boundary Conditions and Phases of Quantum Field Theories (1)\nJan 03, 2026: Renormalized Volume and Weil-Petersson Teichmüller Theory\nDec 27, 2025: An Introduction to Topological String Theory (1)\nDec 20, 2025: Quantum Groups as Global Symmetries (3)\nDec 13, 2025: Quantum Groups as Global Symmetries (2)\nDec 06, 2025: Cluster Algebras and Scattering Diagrams (1)\nNov 29, 2025: Quantum Groups as Global Symmetries (1)\nNov 15, 2025: Non-invertible Symmetries and SPT on Lattice\nNov 08, 2025: Spin Geometry (7) — Heat Kernel Proof of the Atiyah–Singer Index Theorem\nNov 01, 2025: An Introduction to Studying 3D CFTs on the Fuzzy Sphere\nOct 25, 2025: Anomaly from Moving Defects for Continuous Symmetries\nOct 18, 2025: All’s Well that Ends Well: Endpoint Bootstrap for Conformal Line Defects\nOct 11, 2025: Spin Geometry (6) — Heat Equation and Heat Kernel\nSep 27, 2025: Spin Geometry (5) — Spin Structure\nSep 20, 2025: Higher Gauge Theory and Group Cohomology\nSep 13, 2025: Spin Geometry (4) — Spin Groups and Spinors\nSep 06, 2025: Irrational CFTs from Coupled Anyon Chains with Non-invertible Symmetries?\nSep 01, 2025: Spin Geometry (3) — Introduction to Clifford Algebra\nAug 23, 2025: Construction of Liouville Conformal Field Theory\nAug 16, 2025: Spin Geometry (2) — The Analysis of Dirac-type Operators\nAug 09, 2025: Introduction to 2d Conformal Field Theory\nAug 02, 2025: Spin Geometry (1) — Differential Operators on Manifolds\nJul 26, 2025: Geometric Quantization (3) — A Complete Geometric Characterization of Quantizability\nJul 20, 2025: Geometric Quantization (2) — Quantizable Condition and Maslov Technique\nJul 12, 2025: Geometric Quantization (1) — WKB Method and Symplectic Geometry\nJun 15, 2025: TQFT (15) — Non-invertible Symmetries in 4d\nJun 07, 2025: TQFT (14) — Brief Introduction to SymTFT\nMay 24, 2025: TQFT (13) — Instanton\n\nMay 17, 2025: TQFT (12) — SPT Construction\n\nMay 10, 2025: TQFT (11) — Topological K-theory\n\nMay 06, 2025: TQFT (10) — Wess-Zumino Condition\n\nApr 19, 2025: TQFT (9) — Characteristic Classes\nApr 19, 2025: TQFT (8) — Chern-Weil Theorem\nApr 12, 2025: TQFT (7) — Replica Method\nApr 12, 2025: TQFT (6) — Homology Theory\nApr 05, 2025: TQFT (5) — ’t Hooft Anomaly\n\nMar 29, 2025: TQFT (4) — Chiral Anomaly\nMar 22, 2025: TQFT (3) — Yang-Mills Theory\nMar 22, 2025: TQFT (2) — Basic Concepts of Higher-form Symmetries\nMar 15, 2025: TQFT (1) — Axiomatic Construction of TQFT"
+    "text": "Chen Wei\n\n\nHeat Equation and Heat Kernel\n\n\n\nBeginning with the heat equation, we present a systematic treatment of the theory of heat kernels, their asymptotic expansions, and computational techniques. We then turn to Dirac-type operators and show, via the supertrace of the heat kernel, how the analytic index coincides with the manifold’s topological invariants.\n\n\n\nVideo 2025-10-11\n\n\n\n/\n\n\n\n\nSpin Geometry (Christian Bär)"
   },
   {
-    "objectID": "Seminars/2025-09-27.html",
-    "href": "Seminars/2025-09-27.html",
-    "title": "Sep 27, 2025",
+    "objectID": "Seminars/2025-10-11.html#speaker",
+    "href": "Seminars/2025-10-11.html#speaker",
+    "title": "Oct 11, 2025",
     "section": "",
-    "text": "Xianfeng Jiang\n\n\nSpin Structure\n\n\n\nIn this lecture, we will present the spin structure on the manifold. This is a principal bundle on the manifold where Spin(n) is the structure Lie group, and it has a double covering map to the frame bundle. On a manifold with only Riemannian metric and orthogonal frame, it is impossible to study the Dirac operator and theories with spin structure such as fermion fields. By lifting the coordinate frame of the manifold to the spin principal bundle, the problem can be solved.\n\n\n\nVideo 2025-09-27\n\n\n\nNotes 2025-09-27\n\n\n\n\nSpin Geometry (Christian Bär)"
+    "text": "Chen Wei\n\n\nHeat Equation and Heat Kernel\n\n\n\nBeginning with the heat equation, we present a systematic treatment of the theory of heat kernels, their asymptotic expansions, and computational techniques. We then turn to Dirac-type operators and show, via the supertrace of the heat kernel, how the analytic index coincides with the manifold’s topological invariants.\n\n\n\nVideo 2025-10-11\n\n\n\n/\n\n\n\n\nSpin Geometry (Christian Bär)"
   },
   {
-    "objectID": "Seminars/2025-09-27.html#speaker",
-    "href": "Seminars/2025-09-27.html#speaker",
-    "title": "Sep 27, 2025",
+    "objectID": "Seminars/2025-05-24.html",
+    "href": "Seminars/2025-05-24.html",
+    "title": "May 24, 2025",
     "section": "",
-    "text": "Xianfeng Jiang\n\n\nSpin Structure\n\n\n\nIn this lecture, we will present the spin structure on the manifold. This is a principal bundle on the manifold where Spin(n) is the structure Lie group, and it has a double covering map to the frame bundle. On a manifold with only Riemannian metric and orthogonal frame, it is impossible to study the Dirac operator and theories with spin structure such as fermion fields. By lifting the coordinate frame of the manifold to the spin principal bundle, the problem can be solved.\n\n\n\nVideo 2025-09-27\n\n\n\nNotes 2025-09-27\n\n\n\n\nSpin Geometry (Christian Bär)"
+    "text": "Xingyu Chen\n\n\nInstanton\n\n\n\nWe begin by introducing the concept of instantons through an analysis of transition amplitudes in perturbative classical field theory. By employing a Wick rotation to Euclidean time, we examine the Euclidean action and corresponding equations of motion to motivate the necessity and role of instantons. We then perform explicit analyses and computations in three specific cases—the single-well, double-well, and periodic potentials—to illustrate how instanton techniques are applied in practice.\n\n\n\nVideo 2025-05-24\n\n\n\nNotes 2025-05-24\n\n\n\n\nAspects of Symmetry (S. Coleman)"
   },
   {
-    "objectID": "Seminars/2025-07-26.html",
-    "href": "Seminars/2025-07-26.html",
-    "title": "Jul 26, 2025",
+    "objectID": "Seminars/2025-05-24.html#speaker",
+    "href": "Seminars/2025-05-24.html#speaker",
+    "title": "May 24, 2025",
     "section": "",
-    "text": "Yiyi Wan\n\n\nA Complete Geometric Characterization of Quantizability\n\n\n\nIn this discussion, following the Maslov technique introduced previously, we defined Morse families that generate Lagrangian submanifolds, as well as the Maslov principal bundle and Maslov line bundle. We then explored a key property of Morse families in geometric quantization: their existence and stable equivalence. After accounting for Maslov quantum corrections, we introduced the notion of a phase bundle and established a geometric criterion for quantizability—the existence of a non-vanishing parallel section of the phase bundle. This parallels the condition for prequantizability, which requires a non-vanishing parallel section of the prequantum line bundle. We thus gave a complete characterization of quantizability of an arbitrary Lagrangian submanifold. Finally, we concluded by illustrating the geometric correspondence between the classical and quantum worlds.\n\n\n\nVideo 2025-07-26\n\n\n\nNotes 2025-07-26\n\n\n\n\nLectures on the Geometry of Quantization (Sean Bates, Alan Weinstein)"
+    "text": "Xingyu Chen\n\n\nInstanton\n\n\n\nWe begin by introducing the concept of instantons through an analysis of transition amplitudes in perturbative classical field theory. By employing a Wick rotation to Euclidean time, we examine the Euclidean action and corresponding equations of motion to motivate the necessity and role of instantons. We then perform explicit analyses and computations in three specific cases—the single-well, double-well, and periodic potentials—to illustrate how instanton techniques are applied in practice.\n\n\n\nVideo 2025-05-24\n\n\n\nNotes 2025-05-24\n\n\n\n\nAspects of Symmetry (S. Coleman)"
   },
   {
-    "objectID": "Seminars/2025-07-26.html#speaker",
-    "href": "Seminars/2025-07-26.html#speaker",
-    "title": "Jul 26, 2025",
+    "objectID": "Seminars/2025-12-13.html",
+    "href": "Seminars/2025-12-13.html",
+    "title": "Dec 13, 2025",
     "section": "",
-    "text": "Yiyi Wan\n\n\nA Complete Geometric Characterization of Quantizability\n\n\n\nIn this discussion, following the Maslov technique introduced previously, we defined Morse families that generate Lagrangian submanifolds, as well as the Maslov principal bundle and Maslov line bundle. We then explored a key property of Morse families in geometric quantization: their existence and stable equivalence. After accounting for Maslov quantum corrections, we introduced the notion of a phase bundle and established a geometric criterion for quantizability—the existence of a non-vanishing parallel section of the phase bundle. This parallels the condition for prequantizability, which requires a non-vanishing parallel section of the prequantum line bundle. We thus gave a complete characterization of quantizability of an arbitrary Lagrangian submanifold. Finally, we concluded by illustrating the geometric correspondence between the classical and quantum worlds.\n\n\n\nVideo 2025-07-26\n\n\n\nNotes 2025-07-26\n\n\n\n\nLectures on the Geometry of Quantization (Sean Bates, Alan Weinstein)"
+    "text": "Jiaxin Qiao\n\n\nQuantum Groups as Global Symmetries (2)\n\n\n\nWe study quantum field theories which have quantum groups as global internal symmetries. We show that in such theories operators are generically non-local, and should be thought as living at the ends of topological lines. We describe the general constraints of the quantum group symmetry, given by Ward identities, that correlation functions of the theory should satisfy. We also show that generators of the symmetry can be represented by topological lines with some novel properties. We then discuss a particular example of \\(U_q(\\mathfrak{sl}_2)\\) symmetric CFT, which we solve using the bootstrap techniques and relying on the symmetry. We finally show strong evidence that for a special value of \\(q\\) a subsector of this theory reproduces the fermionic formulation of the Ising model. This suggests that a quantum group can act on local operators as well, however, it generically transforms them into non-local ones.\n\n\n\n\nVideo 2025-12-13\n\n\n\n\n\nNotes 2025-12-13\n\n\n\n\n\nQuantum Groups as Global Symmetries (Barak Gabai, Victor Gorbenko, Jiaxin Qiao, Bernardo Zan and Aleksandr Zhabin)"
   },
   {
-    "objectID": "Seminars/2026-05-16.html",
-    "href": "Seminars/2026-05-16.html",
-    "title": "May 16, 2026",
+    "objectID": "Seminars/2025-12-13.html#speaker",
+    "href": "Seminars/2025-12-13.html#speaker",
+    "title": "Dec 13, 2025",
     "section": "",
-    "text": "Honghao Jing\n\n\nMirror Symmetry Through Examples: SYZ, HMS, and Their Interface\n\n\n\nThis talk gives an introduction to the mathematical theory of mirror symmetry, organized around the relationship between the Strominger–Yau–Zaslow (SYZ) conjecture and Homological Mirror Symmetry (HMS). We begin with some minimal prerequisites from symplectic geometry and explain the geometric idea that mirror pairs arise by dualizing Lagrangian torus fibrations. We then give a gentle introduction to Fukaya categories and explain Homological Mirror Symmetry as the categorical consequence of this geometric picture. The exposition will be example-driven.\n\n\n\n\nVideo 2026-05-16\n\n\n\n\nNotes 2026-05-16\n\n\n\n/"
+    "text": "Jiaxin Qiao\n\n\nQuantum Groups as Global Symmetries (2)\n\n\n\nWe study quantum field theories which have quantum groups as global internal symmetries. We show that in such theories operators are generically non-local, and should be thought as living at the ends of topological lines. We describe the general constraints of the quantum group symmetry, given by Ward identities, that correlation functions of the theory should satisfy. We also show that generators of the symmetry can be represented by topological lines with some novel properties. We then discuss a particular example of \\(U_q(\\mathfrak{sl}_2)\\) symmetric CFT, which we solve using the bootstrap techniques and relying on the symmetry. We finally show strong evidence that for a special value of \\(q\\) a subsector of this theory reproduces the fermionic formulation of the Ising model. This suggests that a quantum group can act on local operators as well, however, it generically transforms them into non-local ones.\n\n\n\n\nVideo 2025-12-13\n\n\n\n\n\nNotes 2025-12-13\n\n\n\n\n\nQuantum Groups as Global Symmetries (Barak Gabai, Victor Gorbenko, Jiaxin Qiao, Bernardo Zan and Aleksandr Zhabin)"
   },
   {
-    "objectID": "Seminars/2026-05-16.html#speaker",
-    "href": "Seminars/2026-05-16.html#speaker",
-    "title": "May 16, 2026",
+    "objectID": "Seminars/2025-12-06.html",
+    "href": "Seminars/2025-12-06.html",
+    "title": "Dec 06, 2025",
     "section": "",
-    "text": "Honghao Jing\n\n\nMirror Symmetry Through Examples: SYZ, HMS, and Their Interface\n\n\n\nThis talk gives an introduction to the mathematical theory of mirror symmetry, organized around the relationship between the Strominger–Yau–Zaslow (SYZ) conjecture and Homological Mirror Symmetry (HMS). We begin with some minimal prerequisites from symplectic geometry and explain the geometric idea that mirror pairs arise by dualizing Lagrangian torus fibrations. We then give a gentle introduction to Fukaya categories and explain Homological Mirror Symmetry as the categorical consequence of this geometric picture. The exposition will be example-driven.\n\n\n\n\nVideo 2026-05-16\n\n\n\n\nNotes 2026-05-16\n\n\n\n/"
+    "text": "Xianfeng Jiang\n\n\nCluster Algebras and Scattering Diagrams (1)\n\n\n\nThis lecture is an introductory guide to the theory of cluster algebras. We will focus on the basic notions, techniques, and key results concerning seeds, cluster patterns, and cluster algebras.\n\n\n\nVideo 2025-12-06 (Sorry, due to technical problems, only the audio was recorded.)\n\n\n\n/\n\n\n\n\nCluster Algebras and Scattering Diagrams, Part I. Basics in Cluster Algebras (Tomoki Nakanishi)\nCluster Algebras and Scattering Diagrams, Part II. Cluster Patterns and Scattering Diagrams"
   },
   {
-    "objectID": "Seminars/2026-02-21.html",
-    "href": "Seminars/2026-02-21.html",
-    "title": "Feb 21, 2026",
+    "objectID": "Seminars/2025-12-06.html#speaker",
+    "href": "Seminars/2025-12-06.html#speaker",
+    "title": "Dec 06, 2025",
     "section": "",
-    "text": "Langwen Hui\n\n\nAn Introduction to Topological Modular Forms\n\n\n\nThe spectrum TMF (topological modular forms) may be viewed as the “universal” elliptic cohomology theory, blending classical modular forms with information from the stable homotopy groups of spheres. In this talk, I will give a mathematical introduction to TMF, motivate its construction using ideas from chromatic homotopy theory, and discuss some of its computational aspects.\n\n\n\n\nVideo 2026-02-21\n\n\n\n\n\nNotes 2026-02-21\n\n\n\n\n/"
+    "text": "Xianfeng Jiang\n\n\nCluster Algebras and Scattering Diagrams (1)\n\n\n\nThis lecture is an introductory guide to the theory of cluster algebras. We will focus on the basic notions, techniques, and key results concerning seeds, cluster patterns, and cluster algebras.\n\n\n\nVideo 2025-12-06 (Sorry, due to technical problems, only the audio was recorded.)\n\n\n\n/\n\n\n\n\nCluster Algebras and Scattering Diagrams, Part I. Basics in Cluster Algebras (Tomoki Nakanishi)\nCluster Algebras and Scattering Diagrams, Part II. Cluster Patterns and Scattering Diagrams"
   },
   {
-    "objectID": "Seminars/2026-02-21.html#speaker",
-    "href": "Seminars/2026-02-21.html#speaker",
-    "title": "Feb 21, 2026",
+    "objectID": "Seminars/2026-05-02.html",
+    "href": "Seminars/2026-05-02.html",
+    "title": "May 02, 2026",
     "section": "",
-    "text": "Langwen Hui\n\n\nAn Introduction to Topological Modular Forms\n\n\n\nThe spectrum TMF (topological modular forms) may be viewed as the “universal” elliptic cohomology theory, blending classical modular forms with information from the stable homotopy groups of spheres. In this talk, I will give a mathematical introduction to TMF, motivate its construction using ideas from chromatic homotopy theory, and discuss some of its computational aspects.\n\n\n\n\nVideo 2026-02-21\n\n\n\n\n\nNotes 2026-02-21\n\n\n\n\n/"
+    "text": "Weixiao Lu\n\n\nTQFT and the Langlands Program: A Unified Perspective\n\n\n\nThis talk introduces the aspects of topological quantum field theory (TQFT) that arise in the Langlands program. We will begin with an overview of several facets of the Langlands conjectures, including the arithmetic and geometric Langlands programs, as well as their global and local forms. We will then explain how TQFT provides a natural framework for organizing these perspectives and offering a uniform conceptual picture. If time permits, we will also discuss how the relative Langlands conjecture can be understood as a boundary theory in this framework.\n\n\n\nVideo 2026-05-02\n\n\n\nNotes 2026-05-02\n\n\n\n/"
   },
   {
-    "objectID": "Seminars/2025-09-20.html",
-    "href": "Seminars/2025-09-20.html",
-    "title": "Sep 20, 2025",
+    "objectID": "Seminars/2026-05-02.html#speaker",
+    "href": "Seminars/2026-05-02.html#speaker",
+    "title": "May 02, 2026",
     "section": "",
-    "text": "Zechen Bian\n\n\nHigher Gauge Theory and Group Cohomology\n\n\n\nIn this lecture, we will introduce higher gauge theory from the perspective of group cohomology. We begin with a short review of the categorical language that underlies modern approaches to gauge theory. Building on this, we will explain the construction of group cohomology, then we will describe how the group cohomology can be used to build topological gauge theories in the sense of Dijkgraaf–Witten. References include the works of Dijkgraaf–Witten and Freed–Hopkins–Lurie–Teleman.\n\n\n\nVideo 2025-09-20\n\n\n\nNotes 2025-09-20\n\n\n\n\nTopological Gauge Theories and Group Cohomology (Robbert Dijkgraaf, Edward Witten)\nTopological Quantum Field Theories from Compact Lie Groups (Daniel S. Freed, Michael J. Hopkins, Jacob Lurie, Constantin Teleman)"
+    "text": "Weixiao Lu\n\n\nTQFT and the Langlands Program: A Unified Perspective\n\n\n\nThis talk introduces the aspects of topological quantum field theory (TQFT) that arise in the Langlands program. We will begin with an overview of several facets of the Langlands conjectures, including the arithmetic and geometric Langlands programs, as well as their global and local forms. We will then explain how TQFT provides a natural framework for organizing these perspectives and offering a uniform conceptual picture. If time permits, we will also discuss how the relative Langlands conjecture can be understood as a boundary theory in this framework.\n\n\n\nVideo 2026-05-02\n\n\n\nNotes 2026-05-02\n\n\n\n/"
   },
   {
-    "objectID": "Seminars/2025-09-20.html#speaker",
-    "href": "Seminars/2025-09-20.html#speaker",
-    "title": "Sep 20, 2025",
+    "objectID": "Seminars/2025-04-19(2).html",
+    "href": "Seminars/2025-04-19(2).html",
+    "title": "Apr 19, 2025",
     "section": "",
-    "text": "Zechen Bian\n\n\nHigher Gauge Theory and Group Cohomology\n\n\n\nIn this lecture, we will introduce higher gauge theory from the perspective of group cohomology. We begin with a short review of the categorical language that underlies modern approaches to gauge theory. Building on this, we will explain the construction of group cohomology, then we will describe how the group cohomology can be used to build topological gauge theories in the sense of Dijkgraaf–Witten. References include the works of Dijkgraaf–Witten and Freed–Hopkins–Lurie–Teleman.\n\n\n\nVideo 2025-09-20\n\n\n\nNotes 2025-09-20\n\n\n\n\nTopological Gauge Theories and Group Cohomology (Robbert Dijkgraaf, Edward Witten)\nTopological Quantum Field Theories from Compact Lie Groups (Daniel S. Freed, Michael J. Hopkins, Jacob Lurie, Constantin Teleman)"
+    "text": "Yiyi Wan\n\n\nCharacteristic Classes\n\n\n\nIn this lecture, we began with a brief review of how characteristic classes can be defined via invariant polynomials. We then introduced several common types of characteristic classes, including the Chern class, Todd class, Pontryagin class, and Euler class, highlighting their key properties. Following that, we presented the most general form of the Atiyah–Singer Index Theorem and explained its broad applications in physics. In particular, by introducing the \\(\\hat{A}-genus\\) (A-roof genus), we gained a deeper understanding of how the index theorem manifests in the case of the Dirac operator.\n\n\n\nVideo 2025-04-19\n\n\n\nNotes 2025-04-19\n\n\n\n\nGeometry, Topology and Physics (Mikio Nakahara)"
+  },
+  {
+    "objectID": "Seminars/2025-04-19(2).html#speaker",
+    "href": "Seminars/2025-04-19(2).html#speaker",
+    "title": "Apr 19, 2025",
+    "section": "",
+    "text": "Yiyi Wan\n\n\nCharacteristic Classes\n\n\n\nIn this lecture, we began with a brief review of how characteristic classes can be defined via invariant polynomials. We then introduced several common types of characteristic classes, including the Chern class, Todd class, Pontryagin class, and Euler class, highlighting their key properties. Following that, we presented the most general form of the Atiyah–Singer Index Theorem and explained its broad applications in physics. In particular, by introducing the \\(\\hat{A}-genus\\) (A-roof genus), we gained a deeper understanding of how the index theorem manifests in the case of the Dirac operator.\n\n\n\nVideo 2025-04-19\n\n\n\nNotes 2025-04-19\n\n\n\n\nGeometry, Topology and Physics (Mikio Nakahara)"
+  },
+  {
+    "objectID": "Seminars/2025-03-22(1).html",
+    "href": "Seminars/2025-03-22(1).html",
+    "title": "Mar 22, 2025",
+    "section": "",
+    "text": "Yiming Teng\n\n\nBasic Concepts of Higher-form Symmetries\n\n\n\nStarting from the Ward identity, we rephrased several well-known results using differential forms and topological operators. This reformulation helped highlight the key structural features required for generalizing to higher-form symmetries.\n\n\n\nVideo(1) 2025-03-22\n\n\n\nNotes(1) 2025-03-22\n\n\n\n\n杂七杂八的凝聚态理论(滕一鸣)\nLecture Notes on Generalized Symmetries and Applications (Ran Luo, Qingrui Wang, Yinan Wang)"
+  },
+  {
+    "objectID": "Seminars/2025-03-22(1).html#speaker",
+    "href": "Seminars/2025-03-22(1).html#speaker",
+    "title": "Mar 22, 2025",
+    "section": "",
+    "text": "Yiming Teng\n\n\nBasic Concepts of Higher-form Symmetries\n\n\n\nStarting from the Ward identity, we rephrased several well-known results using differential forms and topological operators. This reformulation helped highlight the key structural features required for generalizing to higher-form symmetries.\n\n\n\nVideo(1) 2025-03-22\n\n\n\nNotes(1) 2025-03-22\n\n\n\n\n杂七杂八的凝聚态理论(滕一鸣)\nLecture Notes on Generalized Symmetries and Applications (Ran Luo, Qingrui Wang, Yinan Wang)"
   },
   {
     "objectID": "Seminars/2026-03-07.html",
@@ -1085,116 +1106,123 @@
     "text": "Yan Luo\n\n\nRenormalized Volume and Weil-Petersson Teichmüller Theory\n\n\n\nIn this talk, we introduce the renormalized volume of hyperbolic 3-manifolds and its relation to Teichmüller theory. We first briefly introduce the concept of Teichmüller and universal Teichmüller spaces, and their Weil-Petersson metric structure. Then we talk about the definitions of renormalized volume of certain manifolds in convex co-compact and universal cases. Finally, we discuss the relations between the previous two parts, namely, the renormalized volume provides a Kähler potential for the Weil Petersson metric.\n\n\n\n\nVideo 2026-01-03\n\n\n\n\n\nNotes 2026-01-03\n\n\n\n\n\nThe Weil-Petersson Metric and the Renormalized Volume of Hyperbolic 3-Manifolds (Kirill Krasnov, Jean-Marc Schlenker)\nWeil-Petersson Metric on the Universal Teichmuller Space I: Curvature Properties and Chern Forms (Leon A. Takhtajan, Lee-Peng Teo)\nUniversal Liouville Action as a Renormalized Volume and its Gradient Flow (Martin Bridgeman, Kenneth Bromberg, Franco Vargas Pallete and Yilin Wang)"
   },
   {
-    "objectID": "Seminars/2025-03-22(1).html",
-    "href": "Seminars/2025-03-22(1).html",
-    "title": "Mar 22, 2025",
+    "objectID": "Seminars/2026-10-08.html",
+    "href": "Seminars/2026-10-08.html",
+    "title": "Oct 08, 2026",
     "section": "",
-    "text": "Yiming Teng\n\n\nBasic Concepts of Higher-form Symmetries\n\n\n\nStarting from the Ward identity, we rephrased several well-known results using differential forms and topological operators. This reformulation helped highlight the key structural features required for generalizing to higher-form symmetries.\n\n\n\nVideo(1) 2025-03-22\n\n\n\nNotes(1) 2025-03-22\n\n\n\n\n杂七杂八的凝聚态理论(滕一鸣)\nLecture Notes on Generalized Symmetries and Applications (Ran Luo, Qingrui Wang, Yinan Wang)"
+    "text": "Chenxi Zeng\n\n\nAlgebraic structure of 2d rational conformal field theory(1/x)\n\n\n\nWe will introduce the definition of a VOA, with particular emphasis on the Jacobi identity and the geometric interpretation of the operator product expansion (OPE).\n\n\n\nVideo 2026-10-08\n\n\n\nNotes 2026-10-08\n\n\n\n\nLectures on Vertex Operator Algebras and Conformal Blocks (Bin Gui)\nConformal field theory and a new geometry (Liang Kong)"
   },
   {
-    "objectID": "Seminars/2025-03-22(1).html#speaker",
-    "href": "Seminars/2025-03-22(1).html#speaker",
-    "title": "Mar 22, 2025",
+    "objectID": "Seminars/2026-10-08.html#speaker",
+    "href": "Seminars/2026-10-08.html#speaker",
+    "title": "Oct 08, 2026",
     "section": "",
-    "text": "Yiming Teng\n\n\nBasic Concepts of Higher-form Symmetries\n\n\n\nStarting from the Ward identity, we rephrased several well-known results using differential forms and topological operators. This reformulation helped highlight the key structural features required for generalizing to higher-form symmetries.\n\n\n\nVideo(1) 2025-03-22\n\n\n\nNotes(1) 2025-03-22\n\n\n\n\n杂七杂八的凝聚态理论(滕一鸣)\nLecture Notes on Generalized Symmetries and Applications (Ran Luo, Qingrui Wang, Yinan Wang)"
+    "text": "Chenxi Zeng\n\n\nAlgebraic structure of 2d rational conformal field theory(1/x)\n\n\n\nWe will introduce the definition of a VOA, with particular emphasis on the Jacobi identity and the geometric interpretation of the operator product expansion (OPE).\n\n\n\nVideo 2026-10-08\n\n\n\nNotes 2026-10-08\n\n\n\n\nLectures on Vertex Operator Algebras and Conformal Blocks (Bin Gui)\nConformal field theory and a new geometry (Liang Kong)"
   },
   {
-    "objectID": "Seminars/2025-04-19(2).html",
-    "href": "Seminars/2025-04-19(2).html",
-    "title": "Apr 19, 2025",
+    "objectID": "Seminars/2025-09-20.html",
+    "href": "Seminars/2025-09-20.html",
+    "title": "Sep 20, 2025",
     "section": "",
-    "text": "Yiyi Wan\n\n\nCharacteristic Classes\n\n\n\nIn this lecture, we began with a brief review of how characteristic classes can be defined via invariant polynomials. We then introduced several common types of characteristic classes, including the Chern class, Todd class, Pontryagin class, and Euler class, highlighting their key properties. Following that, we presented the most general form of the Atiyah–Singer Index Theorem and explained its broad applications in physics. In particular, by introducing the \\(\\hat{A}-genus\\) (A-roof genus), we gained a deeper understanding of how the index theorem manifests in the case of the Dirac operator.\n\n\n\nVideo 2025-04-19\n\n\n\nNotes 2025-04-19\n\n\n\n\nGeometry, Topology and Physics (Mikio Nakahara)"
+    "text": "Zechen Bian\n\n\nHigher Gauge Theory and Group Cohomology\n\n\n\nIn this lecture, we will introduce higher gauge theory from the perspective of group cohomology. We begin with a short review of the categorical language that underlies modern approaches to gauge theory. Building on this, we will explain the construction of group cohomology, then we will describe how the group cohomology can be used to build topological gauge theories in the sense of Dijkgraaf–Witten. References include the works of Dijkgraaf–Witten and Freed–Hopkins–Lurie–Teleman.\n\n\n\nVideo 2025-09-20\n\n\n\nNotes 2025-09-20\n\n\n\n\nTopological Gauge Theories and Group Cohomology (Robbert Dijkgraaf, Edward Witten)\nTopological Quantum Field Theories from Compact Lie Groups (Daniel S. Freed, Michael J. Hopkins, Jacob Lurie, Constantin Teleman)"
   },
   {
-    "objectID": "Seminars/2025-04-19(2).html#speaker",
-    "href": "Seminars/2025-04-19(2).html#speaker",
-    "title": "Apr 19, 2025",
+    "objectID": "Seminars/2025-09-20.html#speaker",
+    "href": "Seminars/2025-09-20.html#speaker",
+    "title": "Sep 20, 2025",
     "section": "",
-    "text": "Yiyi Wan\n\n\nCharacteristic Classes\n\n\n\nIn this lecture, we began with a brief review of how characteristic classes can be defined via invariant polynomials. We then introduced several common types of characteristic classes, including the Chern class, Todd class, Pontryagin class, and Euler class, highlighting their key properties. Following that, we presented the most general form of the Atiyah–Singer Index Theorem and explained its broad applications in physics. In particular, by introducing the \\(\\hat{A}-genus\\) (A-roof genus), we gained a deeper understanding of how the index theorem manifests in the case of the Dirac operator.\n\n\n\nVideo 2025-04-19\n\n\n\nNotes 2025-04-19\n\n\n\n\nGeometry, Topology and Physics (Mikio Nakahara)"
+    "text": "Zechen Bian\n\n\nHigher Gauge Theory and Group Cohomology\n\n\n\nIn this lecture, we will introduce higher gauge theory from the perspective of group cohomology. We begin with a short review of the categorical language that underlies modern approaches to gauge theory. Building on this, we will explain the construction of group cohomology, then we will describe how the group cohomology can be used to build topological gauge theories in the sense of Dijkgraaf–Witten. References include the works of Dijkgraaf–Witten and Freed–Hopkins–Lurie–Teleman.\n\n\n\nVideo 2025-09-20\n\n\n\nNotes 2025-09-20\n\n\n\n\nTopological Gauge Theories and Group Cohomology (Robbert Dijkgraaf, Edward Witten)\nTopological Quantum Field Theories from Compact Lie Groups (Daniel S. Freed, Michael J. Hopkins, Jacob Lurie, Constantin Teleman)"
   },
   {
-    "objectID": "Seminars/2026-05-02.html",
-    "href": "Seminars/2026-05-02.html",
-    "title": "May 02, 2026",
+    "objectID": "Seminars/2026-02-21.html",
+    "href": "Seminars/2026-02-21.html",
+    "title": "Feb 21, 2026",
     "section": "",
-    "text": "Weixiao Lu\n\n\nTQFT and the Langlands Program: A Unified Perspective\n\n\n\nThis talk introduces the aspects of topological quantum field theory (TQFT) that arise in the Langlands program. We will begin with an overview of several facets of the Langlands conjectures, including the arithmetic and geometric Langlands programs, as well as their global and local forms. We will then explain how TQFT provides a natural framework for organizing these perspectives and offering a uniform conceptual picture. If time permits, we will also discuss how the relative Langlands conjecture can be understood as a boundary theory in this framework.\n\n\n\nVideo 2026-05-02\n\n\n\nNotes 2026-05-02\n\n\n\n/"
+    "text": "Langwen Hui\n\n\nAn Introduction to Topological Modular Forms\n\n\n\nThe spectrum TMF (topological modular forms) may be viewed as the “universal” elliptic cohomology theory, blending classical modular forms with information from the stable homotopy groups of spheres. In this talk, I will give a mathematical introduction to TMF, motivate its construction using ideas from chromatic homotopy theory, and discuss some of its computational aspects.\n\n\n\n\nVideo 2026-02-21\n\n\n\n\n\nNotes 2026-02-21\n\n\n\n\n/"
   },
   {
-    "objectID": "Seminars/2026-05-02.html#speaker",
-    "href": "Seminars/2026-05-02.html#speaker",
-    "title": "May 02, 2026",
+    "objectID": "Seminars/2026-02-21.html#speaker",
+    "href": "Seminars/2026-02-21.html#speaker",
+    "title": "Feb 21, 2026",
     "section": "",
-    "text": "Weixiao Lu\n\n\nTQFT and the Langlands Program: A Unified Perspective\n\n\n\nThis talk introduces the aspects of topological quantum field theory (TQFT) that arise in the Langlands program. We will begin with an overview of several facets of the Langlands conjectures, including the arithmetic and geometric Langlands programs, as well as their global and local forms. We will then explain how TQFT provides a natural framework for organizing these perspectives and offering a uniform conceptual picture. If time permits, we will also discuss how the relative Langlands conjecture can be understood as a boundary theory in this framework.\n\n\n\nVideo 2026-05-02\n\n\n\nNotes 2026-05-02\n\n\n\n/"
+    "text": "Langwen Hui\n\n\nAn Introduction to Topological Modular Forms\n\n\n\nThe spectrum TMF (topological modular forms) may be viewed as the “universal” elliptic cohomology theory, blending classical modular forms with information from the stable homotopy groups of spheres. In this talk, I will give a mathematical introduction to TMF, motivate its construction using ideas from chromatic homotopy theory, and discuss some of its computational aspects.\n\n\n\n\nVideo 2026-02-21\n\n\n\n\n\nNotes 2026-02-21\n\n\n\n\n/"
   },
   {
-    "objectID": "Seminars/2025-12-06.html",
-    "href": "Seminars/2025-12-06.html",
-    "title": "Dec 06, 2025",
+    "objectID": "Seminars/2026-05-16.html",
+    "href": "Seminars/2026-05-16.html",
+    "title": "May 16, 2026",
     "section": "",
-    "text": "Xianfeng Jiang\n\n\nCluster Algebras and Scattering Diagrams (1)\n\n\n\nThis lecture is an introductory guide to the theory of cluster algebras. We will focus on the basic notions, techniques, and key results concerning seeds, cluster patterns, and cluster algebras.\n\n\n\nVideo 2025-12-06 (Sorry, due to technical problems, only the audio was recorded.)\n\n\n\n/\n\n\n\n\nCluster Algebras and Scattering Diagrams, Part I. Basics in Cluster Algebras (Tomoki Nakanishi)\nCluster Algebras and Scattering Diagrams, Part II. Cluster Patterns and Scattering Diagrams"
+    "text": "Honghao Jing\n\n\nMirror Symmetry Through Examples: SYZ, HMS, and Their Interface\n\n\n\nThis talk gives an introduction to the mathematical theory of mirror symmetry, organized around the relationship between the Strominger–Yau–Zaslow (SYZ) conjecture and Homological Mirror Symmetry (HMS). We begin with some minimal prerequisites from symplectic geometry and explain the geometric idea that mirror pairs arise by dualizing Lagrangian torus fibrations. We then give a gentle introduction to Fukaya categories and explain Homological Mirror Symmetry as the categorical consequence of this geometric picture. The exposition will be example-driven.\n\n\n\n\nVideo 2026-05-16\n\n\n\n\nNotes 2026-05-16\n\n\n\n/"
   },
   {
-    "objectID": "Seminars/2025-12-06.html#speaker",
-    "href": "Seminars/2025-12-06.html#speaker",
-    "title": "Dec 06, 2025",
+    "objectID": "Seminars/2026-05-16.html#speaker",
+    "href": "Seminars/2026-05-16.html#speaker",
+    "title": "May 16, 2026",
     "section": "",
-    "text": "Xianfeng Jiang\n\n\nCluster Algebras and Scattering Diagrams (1)\n\n\n\nThis lecture is an introductory guide to the theory of cluster algebras. We will focus on the basic notions, techniques, and key results concerning seeds, cluster patterns, and cluster algebras.\n\n\n\nVideo 2025-12-06 (Sorry, due to technical problems, only the audio was recorded.)\n\n\n\n/\n\n\n\n\nCluster Algebras and Scattering Diagrams, Part I. Basics in Cluster Algebras (Tomoki Nakanishi)\nCluster Algebras and Scattering Diagrams, Part II. Cluster Patterns and Scattering Diagrams"
+    "text": "Honghao Jing\n\n\nMirror Symmetry Through Examples: SYZ, HMS, and Their Interface\n\n\n\nThis talk gives an introduction to the mathematical theory of mirror symmetry, organized around the relationship between the Strominger–Yau–Zaslow (SYZ) conjecture and Homological Mirror Symmetry (HMS). We begin with some minimal prerequisites from symplectic geometry and explain the geometric idea that mirror pairs arise by dualizing Lagrangian torus fibrations. We then give a gentle introduction to Fukaya categories and explain Homological Mirror Symmetry as the categorical consequence of this geometric picture. The exposition will be example-driven.\n\n\n\n\nVideo 2026-05-16\n\n\n\n\nNotes 2026-05-16\n\n\n\n/"
   },
   {
-    "objectID": "Seminars/2025-12-13.html",
-    "href": "Seminars/2025-12-13.html",
-    "title": "Dec 13, 2025",
+    "objectID": "Seminars/2025-07-26.html",
+    "href": "Seminars/2025-07-26.html",
+    "title": "Jul 26, 2025",
     "section": "",
-    "text": "Jiaxin Qiao\n\n\nQuantum Groups as Global Symmetries (2)\n\n\n\nWe study quantum field theories which have quantum groups as global internal symmetries. We show that in such theories operators are generically non-local, and should be thought as living at the ends of topological lines. We describe the general constraints of the quantum group symmetry, given by Ward identities, that correlation functions of the theory should satisfy. We also show that generators of the symmetry can be represented by topological lines with some novel properties. We then discuss a particular example of \\(U_q(\\mathfrak{sl}_2)\\) symmetric CFT, which we solve using the bootstrap techniques and relying on the symmetry. We finally show strong evidence that for a special value of \\(q\\) a subsector of this theory reproduces the fermionic formulation of the Ising model. This suggests that a quantum group can act on local operators as well, however, it generically transforms them into non-local ones.\n\n\n\n\nVideo 2025-12-13\n\n\n\n\n\nNotes 2025-12-13\n\n\n\n\n\nQuantum Groups as Global Symmetries (Barak Gabai, Victor Gorbenko, Jiaxin Qiao, Bernardo Zan and Aleksandr Zhabin)"
+    "text": "Yiyi Wan\n\n\nA Complete Geometric Characterization of Quantizability\n\n\n\nIn this discussion, following the Maslov technique introduced previously, we defined Morse families that generate Lagrangian submanifolds, as well as the Maslov principal bundle and Maslov line bundle. We then explored a key property of Morse families in geometric quantization: their existence and stable equivalence. After accounting for Maslov quantum corrections, we introduced the notion of a phase bundle and established a geometric criterion for quantizability—the existence of a non-vanishing parallel section of the phase bundle. This parallels the condition for prequantizability, which requires a non-vanishing parallel section of the prequantum line bundle. We thus gave a complete characterization of quantizability of an arbitrary Lagrangian submanifold. Finally, we concluded by illustrating the geometric correspondence between the classical and quantum worlds.\n\n\n\nVideo 2025-07-26\n\n\n\nNotes 2025-07-26\n\n\n\n\nLectures on the Geometry of Quantization (Sean Bates, Alan Weinstein)"
   },
   {
-    "objectID": "Seminars/2025-12-13.html#speaker",
-    "href": "Seminars/2025-12-13.html#speaker",
-    "title": "Dec 13, 2025",
+    "objectID": "Seminars/2025-07-26.html#speaker",
+    "href": "Seminars/2025-07-26.html#speaker",
+    "title": "Jul 26, 2025",
     "section": "",
-    "text": "Jiaxin Qiao\n\n\nQuantum Groups as Global Symmetries (2)\n\n\n\nWe study quantum field theories which have quantum groups as global internal symmetries. We show that in such theories operators are generically non-local, and should be thought as living at the ends of topological lines. We describe the general constraints of the quantum group symmetry, given by Ward identities, that correlation functions of the theory should satisfy. We also show that generators of the symmetry can be represented by topological lines with some novel properties. We then discuss a particular example of \\(U_q(\\mathfrak{sl}_2)\\) symmetric CFT, which we solve using the bootstrap techniques and relying on the symmetry. We finally show strong evidence that for a special value of \\(q\\) a subsector of this theory reproduces the fermionic formulation of the Ising model. This suggests that a quantum group can act on local operators as well, however, it generically transforms them into non-local ones.\n\n\n\n\nVideo 2025-12-13\n\n\n\n\n\nNotes 2025-12-13\n\n\n\n\n\nQuantum Groups as Global Symmetries (Barak Gabai, Victor Gorbenko, Jiaxin Qiao, Bernardo Zan and Aleksandr Zhabin)"
+    "text": "Yiyi Wan\n\n\nA Complete Geometric Characterization of Quantizability\n\n\n\nIn this discussion, following the Maslov technique introduced previously, we defined Morse families that generate Lagrangian submanifolds, as well as the Maslov principal bundle and Maslov line bundle. We then explored a key property of Morse families in geometric quantization: their existence and stable equivalence. After accounting for Maslov quantum corrections, we introduced the notion of a phase bundle and established a geometric criterion for quantizability—the existence of a non-vanishing parallel section of the phase bundle. This parallels the condition for prequantizability, which requires a non-vanishing parallel section of the prequantum line bundle. We thus gave a complete characterization of quantizability of an arbitrary Lagrangian submanifold. Finally, we concluded by illustrating the geometric correspondence between the classical and quantum worlds.\n\n\n\nVideo 2025-07-26\n\n\n\nNotes 2025-07-26\n\n\n\n\nLectures on the Geometry of Quantization (Sean Bates, Alan Weinstein)"
   },
   {
-    "objectID": "Seminars/2025-05-24.html",
-    "href": "Seminars/2025-05-24.html",
-    "title": "May 24, 2025",
+    "objectID": "Seminars/2025-09-27.html",
+    "href": "Seminars/2025-09-27.html",
+    "title": "Sep 27, 2025",
     "section": "",
-    "text": "Xingyu Chen\n\n\nInstanton\n\n\n\nWe begin by introducing the concept of instantons through an analysis of transition amplitudes in perturbative classical field theory. By employing a Wick rotation to Euclidean time, we examine the Euclidean action and corresponding equations of motion to motivate the necessity and role of instantons. We then perform explicit analyses and computations in three specific cases—the single-well, double-well, and periodic potentials—to illustrate how instanton techniques are applied in practice.\n\n\n\nVideo 2025-05-24\n\n\n\nNotes 2025-05-24\n\n\n\n\nAspects of Symmetry (S. Coleman)"
+    "text": "Xianfeng Jiang\n\n\nSpin Structure\n\n\n\nIn this lecture, we will present the spin structure on the manifold. This is a principal bundle on the manifold where Spin(n) is the structure Lie group, and it has a double covering map to the frame bundle. On a manifold with only Riemannian metric and orthogonal frame, it is impossible to study the Dirac operator and theories with spin structure such as fermion fields. By lifting the coordinate frame of the manifold to the spin principal bundle, the problem can be solved.\n\n\n\nVideo 2025-09-27\n\n\n\nNotes 2025-09-27\n\n\n\n\nSpin Geometry (Christian Bär)"
   },
   {
-    "objectID": "Seminars/2025-05-24.html#speaker",
-    "href": "Seminars/2025-05-24.html#speaker",
-    "title": "May 24, 2025",
+    "objectID": "Seminars/2025-09-27.html#speaker",
+    "href": "Seminars/2025-09-27.html#speaker",
+    "title": "Sep 27, 2025",
     "section": "",
-    "text": "Xingyu Chen\n\n\nInstanton\n\n\n\nWe begin by introducing the concept of instantons through an analysis of transition amplitudes in perturbative classical field theory. By employing a Wick rotation to Euclidean time, we examine the Euclidean action and corresponding equations of motion to motivate the necessity and role of instantons. We then perform explicit analyses and computations in three specific cases—the single-well, double-well, and periodic potentials—to illustrate how instanton techniques are applied in practice.\n\n\n\nVideo 2025-05-24\n\n\n\nNotes 2025-05-24\n\n\n\n\nAspects of Symmetry (S. Coleman)"
+    "text": "Xianfeng Jiang\n\n\nSpin Structure\n\n\n\nIn this lecture, we will present the spin structure on the manifold. This is a principal bundle on the manifold where Spin(n) is the structure Lie group, and it has a double covering map to the frame bundle. On a manifold with only Riemannian metric and orthogonal frame, it is impossible to study the Dirac operator and theories with spin structure such as fermion fields. By lifting the coordinate frame of the manifold to the spin principal bundle, the problem can be solved.\n\n\n\nVideo 2025-09-27\n\n\n\nNotes 2025-09-27\n\n\n\n\nSpin Geometry (Christian Bär)"
   },
   {
-    "objectID": "Seminars/2025-10-11.html",
-    "href": "Seminars/2025-10-11.html",
-    "title": "Oct 11, 2025",
+    "objectID": "Seminars/seminars.html",
+    "href": "Seminars/seminars.html",
+    "title": "Seminars",
     "section": "",
-    "text": "Chen Wei\n\n\nHeat Equation and Heat Kernel\n\n\n\nBeginning with the heat equation, we present a systematic treatment of the theory of heat kernels, their asymptotic expansions, and computational techniques. We then turn to Dirac-type operators and show, via the supertrace of the heat kernel, how the analytic index coincides with the manifold’s topological invariants.\n\n\n\nVideo 2025-10-11\n\n\n\n/\n\n\n\n\nSpin Geometry (Christian Bär)"
+    "text": "Oct 15, 2026: Algebraic structure of 2d rational conformal field theory(2/x)\nOct 08, 2026: Algebraic structure of 2d rational conformal field theory(1/x)\nJun 27, 2026: Gapless edges of 2d topological orders and enriched monoidal categories\nJun 20, 2026: An Introduction to Rational Conformal Field Theory\nJun 06, 2026: Boundary-bulk relation in topological orders\nMay 30, 2026: Introduction to higher algebra and higher category theory\nMay 23, 2026: An Introduction to Homological Mirror Symmetry\nMay 16, 2026: Mirror Symmetry Through Examples: SYZ, HMS, and Their Interface\nMay 09, 2026: An Invitation to Topological Orders and Category Theory (5)\nMay 02, 2026: TQFT and the Langlands Program: A Unified Perspective\nApr 25, 2026: A Mini-Course on Non-Archimedean Geometry (4)\nApr 25, 2026: An Invitation to Topological Orders and Category Theory (4)\nApr 11, 2026: An Invitation to Topological Orders and Category Theory (3)\nApr 04, 2026: A Mini-Course on Non-Archimedean Geometry (3)\nMar 28, 2026: An Invitation to Topological Orders and Category Theory (2)\nMar 21, 2026: A Mini-Course on Non-Archimedean Geometry (2)\nMar 21, 2026: An Invitation to Topological Orders and Category Theory (1)\nMar 07, 2026: A Mini-course on Non-Archimedean Geometry (1)\nFeb 28, 2026: On Boundary Conditions and Phases of Quantum Field Theories (2)\nFeb 21, 2026: An Introduction to Topological Modular Forms\nFeb 14, 2026: Non-Invertible Kennedy-Tasaki Transformation and Applications to Gapless-SPT\nFeb 07, 2026: Anomalous Symmetries in Mixed-state Phases: a Perspective from Operator Algebras\nJan 31, 2026: Symmetric Gapped States and Symmetry-Enforced Gaplessness in 3-dimension\nJan 24, 2026: Some Spectral Theory Problems in Condensed Matter Physics\nJan 17, 2026: Returning to the Beauty of Mathematical Structure and the Depth of Natural Philosophy\nJan 11, 2026: An Introduction to Topological String Theory (2): Topological Sigma Model and Topological String\nJan 10, 2026: On Boundary Conditions and Phases of Quantum Field Theories (1)\nJan 03, 2026: Renormalized Volume and Weil-Petersson Teichmüller Theory\nDec 27, 2025: An Introduction to Topological String Theory (1)\nDec 20, 2025: Quantum Groups as Global Symmetries (3)\nDec 13, 2025: Quantum Groups as Global Symmetries (2)\nDec 06, 2025: Cluster Algebras and Scattering Diagrams (1)\nNov 29, 2025: Quantum Groups as Global Symmetries (1)\nNov 15, 2025: Non-invertible Symmetries and SPT on Lattice\nNov 08, 2025: Spin Geometry (7) — Heat Kernel Proof of the Atiyah–Singer Index Theorem\nNov 01, 2025: An Introduction to Studying 3D CFTs on the Fuzzy Sphere\nOct 25, 2025: Anomaly from Moving Defects for Continuous Symmetries\nOct 18, 2025: All’s Well that Ends Well: Endpoint Bootstrap for Conformal Line Defects\nOct 11, 2025: Spin Geometry (6) — Heat Equation and Heat Kernel\nSep 27, 2025: Spin Geometry (5) — Spin Structure\nSep 20, 2025: Higher Gauge Theory and Group Cohomology\nSep 13, 2025: Spin Geometry (4) — Spin Groups and Spinors\nSep 06, 2025: Irrational CFTs from Coupled Anyon Chains with Non-invertible Symmetries?\nSep 01, 2025: Spin Geometry (3) — Introduction to Clifford Algebra\nAug 23, 2025: Construction of Liouville Conformal Field Theory\nAug 16, 2025: Spin Geometry (2) — The Analysis of Dirac-type Operators\nAug 09, 2025: Introduction to 2d Conformal Field Theory\nAug 02, 2025: Spin Geometry (1) — Differential Operators on Manifolds\nJul 26, 2025: Geometric Quantization (3) — A Complete Geometric Characterization of Quantizability\nJul 20, 2025: Geometric Quantization (2) — Quantizable Condition and Maslov Technique\nJul 12, 2025: Geometric Quantization (1) — WKB Method and Symplectic Geometry\nJun 15, 2025: TQFT (15) — Non-invertible Symmetries in 4d\nJun 07, 2025: TQFT (14) — Brief Introduction to SymTFT\nMay 24, 2025: TQFT (13) — Instanton\n\nMay 17, 2025: TQFT (12) — SPT Construction\n\nMay 10, 2025: TQFT (11) — Topological K-theory\n\nMay 06, 2025: TQFT (10) — Wess-Zumino Condition\n\nApr 19, 2025: TQFT (9) — Characteristic Classes\nApr 19, 2025: TQFT (8) — Chern-Weil Theorem\nApr 12, 2025: TQFT (7) — Replica Method\nApr 12, 2025: TQFT (6) — Homology Theory\nApr 05, 2025: TQFT (5) — ’t Hooft Anomaly\n\nMar 29, 2025: TQFT (4) — Chiral Anomaly\nMar 22, 2025: TQFT (3) — Yang-Mills Theory\nMar 22, 2025: TQFT (2) — Basic Concepts of Higher-form Symmetries\nMar 15, 2025: TQFT (1) — Axiomatic Construction of TQFT"
   },
   {
-    "objectID": "Seminars/2025-10-11.html#speaker",
-    "href": "Seminars/2025-10-11.html#speaker",
-    "title": "Oct 11, 2025",
+    "objectID": "Seminars/2025-07-20.html",
+    "href": "Seminars/2025-07-20.html",
+    "title": "Jul 20, 2025",
     "section": "",
-    "text": "Chen Wei\n\n\nHeat Equation and Heat Kernel\n\n\n\nBeginning with the heat equation, we present a systematic treatment of the theory of heat kernels, their asymptotic expansions, and computational techniques. We then turn to Dirac-type operators and show, via the supertrace of the heat kernel, how the analytic index coincides with the manifold’s topological invariants.\n\n\n\nVideo 2025-10-11\n\n\n\n/\n\n\n\n\nSpin Geometry (Christian Bär)"
+    "text": "Yiyi Wan\n\n\nQuantizable Condition and Maslov Technique\n\n\n\nIn this lecture, we built upon the symplectic geometry discussed last time to examine the quantization condition for projectable Lagrangian submanifolds. Then, for general Lagrangian submanifolds, we introduced the prequantum \\(\\mathbb{T}_{\\hbar}\\) bundle and established the geometric condition under which such submanifolds are prequantizable. To determine whether a prequantizable Lagrangian submanifold is further quantizable, we employed the Maslov technique. As an example, we provided the exact Maslov quantization condition in the case where the Lagrangian submanifold is a circle. More general cases will be discussed in future sessions.\n\n\n\nVideo 2025-07-20\n\n\n\nNotes 2025-07-20\n\n\n\n\nLectures on the Geometry of Quantization (Sean Bates, Alan Weinstein)"
   },
   {
-    "objectID": "Seminars/2025-04-12(1).html",
-    "href": "Seminars/2025-04-12(1).html",
-    "title": "Apr 12, 2025",
+    "objectID": "Seminars/2025-07-20.html#speaker",
+    "href": "Seminars/2025-07-20.html#speaker",
+    "title": "Jul 20, 2025",
     "section": "",
-    "text": "Chen Wei\n\n\nHomology Theory\n\n\n\nIn this lecture, we introduced the definitions and basic properties of homology groups. We presented two approaches to defining homology and proved their equivalence. Along the way, we also discussed the concept of chain complexes.\n\n\n\nVideo 2025-04-12\n\n\n\n/\n\n\n\n\nCategories and Homological Algebra (Pierre Schapira)"
+    "text": "Yiyi Wan\n\n\nQuantizable Condition and Maslov Technique\n\n\n\nIn this lecture, we built upon the symplectic geometry discussed last time to examine the quantization condition for projectable Lagrangian submanifolds. Then, for general Lagrangian submanifolds, we introduced the prequantum \\(\\mathbb{T}_{\\hbar}\\) bundle and established the geometric condition under which such submanifolds are prequantizable. To determine whether a prequantizable Lagrangian submanifold is further quantizable, we employed the Maslov technique. As an example, we provided the exact Maslov quantization condition in the case where the Lagrangian submanifold is a circle. More general cases will be discussed in future sessions.\n\n\n\nVideo 2025-07-20\n\n\n\nNotes 2025-07-20\n\n\n\n\nLectures on the Geometry of Quantization (Sean Bates, Alan Weinstein)"
   },
   {
-    "objectID": "Seminars/2025-04-12(1).html#speaker",
-    "href": "Seminars/2025-04-12(1).html#speaker",
-    "title": "Apr 12, 2025",
+    "objectID": "Seminars/2026-10-15.html",
+    "href": "Seminars/2026-10-15.html",
+    "title": "Oct 15, 2026",
     "section": "",
-    "text": "Chen Wei\n\n\nHomology Theory\n\n\n\nIn this lecture, we introduced the definitions and basic properties of homology groups. We presented two approaches to defining homology and proved their equivalence. Along the way, we also discussed the concept of chain complexes.\n\n\n\nVideo 2025-04-12\n\n\n\n/\n\n\n\n\nCategories and Homological Algebra (Pierre Schapira)"
+    "text": "Yiyi Wan\n\n\nAlgebraic structure of 2d rational conformal field theory(2/x)\n\n\n\nThis talk introduces VOA modules, their grading structures, and the induced Virasoro action, followed by a discussion of irreducibility and rationality. Examples from Virasoro minimal models will illustrate these concepts. We will then construct contragredient modules and explain how their vertex operators arise geometrically from exchanging zero and infinity on the Riemann sphere, together with the corresponding changes of local coordinates.\n\n\n\nVideo 2026-10-08\n\n\n\nNotes 2026-10-08\n\n\n\n\nLectures on Vertex Operator Algebras and Conformal Blocks (Bin Gui)\nConformal field theory and a new geometry (Liang Kong)"
+  },
+  {
+    "objectID": "Seminars/2026-10-15.html#speaker",
+    "href": "Seminars/2026-10-15.html#speaker",
+    "title": "Oct 15, 2026",
+    "section": "",
+    "text": "Yiyi Wan\n\n\nAlgebraic structure of 2d rational conformal field theory(2/x)\n\n\n\nThis talk introduces VOA modules, their grading structures, and the induced Virasoro action, followed by a discussion of irreducibility and rationality. Examples from Virasoro minimal models will illustrate these concepts. We will then construct contragredient modules and explain how their vertex operators arise geometrically from exchanging zero and infinity on the Riemann sphere, together with the corresponding changes of local coordinates.\n\n\n\nVideo 2026-10-08\n\n\n\nNotes 2026-10-08\n\n\n\n\nLectures on Vertex Operator Algebras and Conformal Blocks (Bin Gui)\nConformal field theory and a new geometry (Liang Kong)"
   },
   {
     "objectID": "Seminars/2025-04-12(2).html",
